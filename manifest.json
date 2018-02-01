@@ -1,0 +1,13 @@
+ {
+  "manifest_version": 2,
+
+ "name": "Dog Park",
+  "description": "Test environment for bloodhound.",
+  "version": "0.1",
+
+  "browser_action": {
+  },
+
+  "permissions": [
+  ]
+}
